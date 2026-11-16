@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:6EE7B7&height=180&section=header&text=Hi%2C%20I'm%20Mingu%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <a href="https://github.com/LEEMINGU03">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F8CFF&center=true&vCenter=true&width=500&lines=AI+Agent+%26+Backend+Developer;Building+Healthcare+%26+Welfare+Services;Python+%7C+Java+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F8CFF&center=true&vCenter=true&width=500&lines=Backend+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
