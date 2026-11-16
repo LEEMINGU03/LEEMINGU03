@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4F8CFF&center=true&vCenter=true&width=500&lines=Backend+Developer" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=LEEMINGU03&color=4F8CFF&style=flat-square&label=Profile+Views" />
-
 </div>
 
 ---
